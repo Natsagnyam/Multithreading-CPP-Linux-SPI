@@ -1,0 +1,35 @@
+                                                                                                                                     
+L1                               
+L2                                  
+                                        
+                                                                                                                                     
+         g_SPI_Rx_outerFrame   BEGIN
+         sle Rx outer frame len == 2060;
+         g_SPI_Rx_outerFrame.outer_buff[] == //<0012(4D0000SSSSSSSSSSSSSSSSSS)[00MM00800000000B601FEFFI][01MM00800000000B701FEFFI][02
+//<0012(4D0000SSSSSSSSSSSSSSSSSS)
+[00MM00800000000B601FEFFI]
+[01MM00800000000B701FEFFI]
+[02MM00800000000B801FEFFI]
+[03MM00800000000B901FEFFI]                         
+[04MM00800000000BA01FEFFI]          
+[05MMBE80000000060000000I]                         
+[06MM00800000000BB01FEFFI]             
+[07MM00800000000BC01FEFFI]                   
+[08MM00800000000BD01FEFFI]             
+[09MM00800000000BE01FEFFI]                         
+[0AMM00800000000BF01FEFFI]          
+[0BMM00800000000C001FEFFI]          
+[0CMM00800000000C101FEFFI]             
+[0DMM00800000000C201FEFFI]                         
+[0EMM00800000000C301FEFFI]          
+[0FMM00800000000C401FEFFI]          
+[10MM00800000000C501FEFFI]             
+[11MM00800000000C601FEFFI]                         
+[12MM00800000000C701FEFFI]          
+[13MM00800000000C801FEFFI]          
+[14MM00800000000C901FEFFI]             
+[15MM00800000000CA01FEFFI]                         
+[16MM00800000000CB01FEFFI]          
+[17MM00800000000CC01FEFFI]          
+[18MM00800000000CD01FEFFI]             
+- Logfile_SPI.txt 1/107 0%
